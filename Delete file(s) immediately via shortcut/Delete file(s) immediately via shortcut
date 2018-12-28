@@ -1,0 +1,18 @@
+	•	Run Automator -> “New document”
+	•	Choose a type for your document -> “Folder Action”
+	•	Set “Folder Action receives files and folders added to” -> “Other” -> “Search” -> “TrashFolder”
+	•	Choose “Actions” -> “Run AppleScript” -> Double click
+	•	Enter text from “Delete file(s) immediately via shortcut.applescript” file
+	•	File -> “Save” -> “EmptyTrash” (for example)
+
+	•	Automator -> “New document”
+	•	Choose a type for your document -> “Quick Action”
+	•	Set “Workflow receives” -> “no input” in “any application”
+	•	Choose “Actions” -> “Files & Folders” -> “Get Selected Finder Items” -> Double click
+	•	Choose “Actions” -> “Files & Folders” -> “Move Finder Items to Trash” -> Double click
+	•	Choose “Actions” -> “Utilities” -> “Run Workflow” -> Double click
+	•	Set “Workflow” -> “EmptyTrash”
+	•	File -> “Save” -> “RemoveItems” (for example)
+
+	•	Go “System Preferences” -> “Keyboard” -> “Shortcuts” -> “General” -> “RemoveItems”
+	•	Set shortcut -> “Command + U” (for example)
