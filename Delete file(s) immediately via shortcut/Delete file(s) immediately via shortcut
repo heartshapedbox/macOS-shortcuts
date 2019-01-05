@@ -12,7 +12,7 @@
 	•	Choose “Actions” -> “Files & Folders” -> “Move Finder Items to Trash” -> Double click
 	•	Choose “Actions” -> “Utilities” -> “Run Workflow” -> Double click
 	•	Set “Workflow” -> “EmptyTrash”
-	•	File -> “Save” -> “RemoveItems” (for example)
+	•	File -> “Save” -> “RemoveItem” (for example)
 
-	•	Go “System Preferences” -> “Keyboard” -> “Shortcuts” -> “General” -> “RemoveItems”
+	•	Go “System Preferences” -> “Keyboard” -> “Shortcuts” -> “General” -> “RemoveItem”
 	•	Set shortcut -> “Command + U” (for example)
