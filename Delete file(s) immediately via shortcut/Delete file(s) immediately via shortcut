@@ -1,6 +1,6 @@
 	•	Run Automator -> “New document”
 	•	Choose a type of your document -> “Folder Action”
-	•	Set “Folder Action receives files and folders added to” -> “Other” -> “Search” -> “TrashFolder”
+	•	Set “Folder Action receives files and folders added to” -> “Other” -> “Search” -> “Trash”
 	•	Choose “Actions” -> “Run AppleScript” -> Double click
 	•	Enter text from “Delete file(s) immediately via shortcut.applescript” file
 	•	File -> “Save” -> “EmptyTrash” (for example)
