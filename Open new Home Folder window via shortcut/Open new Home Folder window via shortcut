@@ -1,9 +1,0 @@
-	•	Run Automator -> “New document”
-	•	Choose a type of your document -> “Quick action”
-	•	Set “Workflow receives” -> “no input” in “any application”
-	•	Choose “Actions” -> “Utilities” -> “Run AppleScript” -> Double click
-	•	Enter text from “Open new Home Folder window via shortcut.applescript” file
-	•	File -> “Save” -> “HomeFolder” (for example)
-
-	•	Go “System Preferences” -> “Keyboard” -> “Shortcuts” -> “General” -> “HomeFolder”
-	•	Set shortcut -> “Command + ‘” (for example)
