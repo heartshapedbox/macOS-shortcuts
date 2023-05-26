@@ -29,3 +29,10 @@ A workflow to delete files immediately using a keyboard shortcut. Using macOS Bi
 
 - Actions > Library > Utilities > Run AppleScript
 <img width="540" alt="Screenshot 2023-05-26 at 16 22 14" src="https://github.com/heartshapedbox/macOS-shortcuts/assets/27690717/2d315a02-fa23-495c-81dd-159aa64f6900">
+
+- File > Save > 'workflow name'
+
+- System Settings > Keyboard > Keyboard Shortcuts > Services > General > 'workflow name' > Assign a keyboard shortcut.
+<img width="652" alt="Screenshot 2023-05-26 at 16 41 02" src="https://github.com/heartshapedbox/macOS-shortcuts/assets/27690717/dae73267-5e7e-4b64-8ede-5ce8f83b8133">
+
+
