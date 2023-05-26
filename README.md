@@ -2,8 +2,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/heartshapedbox/macos-tweaks?color=5955E8&logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/macos-tweaks?color=5955E8&logo=github)
 
-# macOS shortcuts.
-Custom macOS Shortcuts and Quick Actions.
+# Custom macOS Shortcuts and Quick Actions.
+
 <br/>
 <br/>
 <br/>
