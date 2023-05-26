@@ -3,7 +3,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/macos-tweaks?color=5955E8&logo=github)
 
 ## macOS shortcuts.
-<br/>
 Custom macOS Shortcuts and Quick Actions.
 <br/>
 <br/>
@@ -11,14 +10,13 @@ Custom macOS Shortcuts and Quick Actions.
 -
 
 ### Delete Items Immediately (via macOS Shortcuts).
-<br/>
 A shortcut to delete files immediately using a keyboard shortcut. Skipping macOS Bin, with a confirmation in 'Privacy' pop-up window.
 <br/>
 <br/>
 -
 
 ### Delete Items Immediately (via macOS Automator).
-<br/>
 A workflow to delete files immediately using a keyboard shortcut. Skipping macOS Bin, without a confirmation in 'Privacy' pop-up window.
-
+<br/>
+<br/>
 -
