@@ -3,8 +3,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/macos-tweaks?color=5955E8&logo=github)
 
 # Custom macOS Shortcuts and Quick Actions.
-
-<br/>
 <br/>
 <br/>
 
