@@ -15,7 +15,7 @@ A shortcut to delete files immediately using a keyboard shortcut. Skipping macOS
 <br/>
 
 ### Delete Items Immediately (via macOS Automator) ###
-A workflow to delete files immediately using a keyboard shortcut. Skipping macOS Bin, without a confirmation in 'Privacy' pop-up window.
+A workflow to delete files immediately using a keyboard shortcut. Throught macOS Bin, without a confirmation in 'Privacy' pop-up window.
 
 - 
 <img width="523" alt="Screenshot 2023-05-26 at 16 19 56" src="https://github.com/heartshapedbox/macOS-shortcuts/assets/27690717/13953f50-452b-4fcc-b74b-26dccea3491a">
