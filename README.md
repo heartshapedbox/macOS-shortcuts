@@ -9,13 +9,13 @@ Custom macOS Shortcuts and Quick Actions.
 <br/>
 
 ### Delete Items Immediately (via macOS Shortcuts) ###
-A shortcut to delete files immediately using a keyboard shortcut. Skipping macOS Bin, with a confirmation in 'Privacy' pop-up window.
+A shortcut to delete files immediately using a keyboard shortcut. Skipping macOS Bin, <b> with a confirmation <b/> in 'Privacy' pop-up window.
 
 <br/>
 <br/>
 
 ### Delete Items Immediately (via macOS Automator) ###
-A workflow to delete files immediately using a keyboard shortcut. Using macOS Bin, without a confirmation in 'Privacy' pop-up window.
+A workflow to delete files immediately using a keyboard shortcut. Using macOS Bin, <b> without a confirmation <b/> in 'Privacy' pop-up window.
 
 - Automator > New Document > Quick Action
 - Setup a workflow
